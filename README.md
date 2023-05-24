@@ -1,7 +1,7 @@
 # Korean Sarcasm Dataset
 
 * Korean Sarcasm Dataset
-  * What is **Korean Sarcasm Dataset**
+  * What is Korean Sarcasm Dataset?
   * Data Format
   * Number of Data
   * Label Acronyms
@@ -9,7 +9,7 @@
 ---
 
 
-## What is **Korean Sarcasm Dataset**
+## What is Korean Sarcasm Dataset?
 
 * Mass of documents consists of one or more sentences from sports article comments, Twitter, NaverMovieReview which are likely to have **sarcastic** or **ironic** contents.
 
